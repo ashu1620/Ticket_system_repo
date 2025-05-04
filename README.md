@@ -88,9 +88,5 @@ php artisan route:list             # Show all routes
 
 ---
 
-## 📜 License
-
-This project is open-sourced under the [MIT license](LICENSE).
-
 ---
 
