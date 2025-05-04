@@ -14,6 +14,17 @@ A Laravel-based web application for managing tickets and support requests. The p
 
 ---
 
+## 🚀 Tech Stack
+
+| Layer           | Technology          |
+| --------------- | ------------------- |
+| Backend         | Laravel(PHP)        |
+| Frontend        | Blade, HTML/CSS, JS |
+| Database        | MySQL               |
+| Version Control | Git + GitHub        |
+
+---
+
 ## Project Structure
 
 ```
